@@ -57,7 +57,7 @@ class WindowClass(QMainWindow, basic_ui) :
             studentid = ""
 
         else :         #금빛나
-            studentid = ""
+            studentid = "체리마루"
             
 
         buttonReply = QMessageBox.information(
