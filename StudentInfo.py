@@ -51,7 +51,7 @@ class WindowClass(QMainWindow, basic_ui) :
             studentid = ""
 
         elif num == 8: #한정수
-            studentid = ""
+            studentid = "동두"
 
         elif num == 9: #손정현
             studentid = ""
