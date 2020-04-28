@@ -30,7 +30,7 @@ class WindowClass(QMainWindow, basic_ui) :
         studentid = ''
 
         if num == 1: #이로사
-            studentid = ""
+            studentid = "154"
 
         elif num == 2: #권나성
             studentid = "미니언즈"
